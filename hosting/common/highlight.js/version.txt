@@ -1,0 +1,21 @@
+Version 9.4.0
+
+Apache
+Bash
+C#
+C++
+CSS
+HTML, XML
+HTTP
+Ini
+JSON
+Java
+JavaScript
+Python
+SQL
+Gradle
+Groovy
+Kotlin
+Scala
+VB.NET
+YAML
